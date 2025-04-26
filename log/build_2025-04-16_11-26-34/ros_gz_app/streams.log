@@ -1,0 +1,39 @@
+[0.043s] Invoking command in '/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_app': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/ros_gz_app -DBUILD_TESTING=ON -DCMAKE_INSTALL_PREFIX=/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app
+[1.110s] -- The C compiler identification is GNU 13.3.0
+[1.586s] -- The CXX compiler identification is GNU 13.3.0
+[1.652s] -- Detecting C compiler ABI info
+[2.013s] -- Detecting C compiler ABI info - done
+[2.032s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.032s] -- Detecting C compile features
+[2.033s] -- Detecting C compile features - done
+[2.068s] -- Detecting CXX compiler ABI info
+[2.344s] -- Detecting CXX compiler ABI info - done
+[2.363s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.363s] -- Detecting CXX compile features
+[2.364s] -- Detecting CXX compile features - done
+[2.409s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.629s] -- Found Python3: /research/hutchinson/workspace/bhimirs/miniconda_3/bin/python3 (found version "3.12.9") found components: Interpreter 
+[3.945s] -- Configuring done (3.5s)
+[4.031s] -- Generating done (0.1s)
+[4.074s] -- Build files have been written to: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_app
+[4.082s] Invoked command in '/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_app' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/ros_gz_app -DBUILD_TESTING=ON -DCMAKE_INSTALL_PREFIX=/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app
+[4.083s] Invoking command in '/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_app': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --build /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_app -- -j28 -l28
+[4.152s] Invoked command in '/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_app' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --build /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_app -- -j28 -l28
+[4.169s] Invoking command in '/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_app': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --install /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_app
+[4.179s] -- Install configuration: ""
+[4.184s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ament_index/resource_index/package_run_dependencies/ros_gz_app
+[4.192s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ament_index/resource_index/parent_prefix_path/ros_gz_app
+[4.202s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/environment/ament_prefix_path.sh
+[4.207s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/environment/ament_prefix_path.dsv
+[4.213s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/environment/path.sh
+[4.218s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/environment/path.dsv
+[4.223s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/local_setup.bash
+[4.229s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/local_setup.sh
+[4.235s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/local_setup.zsh
+[4.241s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/local_setup.dsv
+[4.246s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/package.dsv
+[4.255s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ament_index/resource_index/packages/ros_gz_app
+[4.263s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/cmake/ros_gz_appConfig.cmake
+[4.268s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/cmake/ros_gz_appConfig-version.cmake
+[4.274s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/package.xml
+[4.283s] Invoked command in '/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_app' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --install /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_app

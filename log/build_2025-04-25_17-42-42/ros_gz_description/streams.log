@@ -1,0 +1,1 @@
+[0.033s] Invoking command in '/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --build /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description -- -j28 -l28

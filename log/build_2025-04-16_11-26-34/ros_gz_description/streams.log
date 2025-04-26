@@ -1,0 +1,45 @@
+[0.035s] Invoking command in '/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/ros_gz_description -DBUILD_TESTING=ON -DCMAKE_INSTALL_PREFIX=/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description
+[1.119s] -- The C compiler identification is GNU 13.3.0
+[1.596s] -- The CXX compiler identification is GNU 13.3.0
+[1.662s] -- Detecting C compiler ABI info
+[2.024s] -- Detecting C compiler ABI info - done
+[2.042s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.042s] -- Detecting C compile features
+[2.043s] -- Detecting C compile features - done
+[2.077s] -- Detecting CXX compiler ABI info
+[2.352s] -- Detecting CXX compiler ABI info - done
+[2.370s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.370s] -- Detecting CXX compile features
+[2.370s] -- Detecting CXX compile features - done
+[2.418s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.639s] -- Found Python3: /research/hutchinson/workspace/bhimirs/miniconda_3/bin/python3 (found version "3.12.9") found components: Interpreter 
+[3.953s] -- Configuring done (3.5s)
+[4.041s] -- Generating done (0.1s)
+[4.085s] -- Build files have been written to: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description
+[4.100s] Invoked command in '/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/ros_gz_description -DBUILD_TESTING=ON -DCMAKE_INSTALL_PREFIX=/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description
+[4.102s] Invoking command in '/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --build /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description -- -j28 -l28
+[4.179s] Invoked command in '/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --build /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description -- -j28 -l28
+[4.182s] Invoking command in '/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --install /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description
+[4.192s] -- Install configuration: ""
+[4.192s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/models
+[4.197s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/models/diff_drive
+[4.201s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/models/diff_drive/model.sdf
+[4.205s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/models/diff_drive/model.config
+[4.214s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/environment/ros_gz_description.dsv
+[4.220s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/environment/ros_gz_description.sh
+[4.231s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ament_index/resource_index/package_run_dependencies/ros_gz_description
+[4.240s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ament_index/resource_index/parent_prefix_path/ros_gz_description
+[4.246s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/environment/ament_prefix_path.sh
+[4.251s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/environment/ament_prefix_path.dsv
+[4.257s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/environment/path.sh
+[4.262s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/environment/path.dsv
+[4.268s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/local_setup.bash
+[4.274s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/local_setup.sh
+[4.280s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/local_setup.zsh
+[4.285s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/local_setup.dsv
+[4.293s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/package.dsv
+[4.302s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ament_index/resource_index/packages/ros_gz_description
+[4.310s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/cmake/ros_gz_descriptionConfig.cmake
+[4.316s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/cmake/ros_gz_descriptionConfig-version.cmake
+[4.323s] -- Installing: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description/share/ros_gz_description/package.xml
+[4.379s] Invoked command in '/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --install /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description

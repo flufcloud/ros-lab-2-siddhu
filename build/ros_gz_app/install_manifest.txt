@@ -1,0 +1,15 @@
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ament_index/resource_index/package_run_dependencies/ros_gz_app
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ament_index/resource_index/parent_prefix_path/ros_gz_app
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/environment/ament_prefix_path.sh
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/environment/ament_prefix_path.dsv
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/environment/path.sh
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/environment/path.dsv
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/local_setup.bash
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/local_setup.sh
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/local_setup.zsh
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/local_setup.dsv
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/package.dsv
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ament_index/resource_index/packages/ros_gz_app
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/cmake/ros_gz_appConfig.cmake
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/cmake/ros_gz_appConfig-version.cmake
+/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_app/share/ros_gz_app/package.xml

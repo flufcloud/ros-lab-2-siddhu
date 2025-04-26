@@ -1,0 +1,5 @@
+[0.041s] Invoking command in '/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/ros_gz_description -DBUILD_TESTING=ON -DCMAKE_INSTALL_PREFIX=/home/bhimirs/Documents/robotics/ros-lab-2-siddhu/install/ros_gz_description
+[0.191s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.032s] -- Configuring done (0.9s)
+[1.158s] -- Generating done (0.1s)
+[1.213s] -- Build files have been written to: /home/bhimirs/Documents/robotics/ros-lab-2-siddhu/build/ros_gz_description

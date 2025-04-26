@@ -1,0 +1,2 @@
+/research/hutchinson/workspace/bhimirs/miniconda_3/lib/python3.12/site-packages/setuptools/_distutils/dist.py:270: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
